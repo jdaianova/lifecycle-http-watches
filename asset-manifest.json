@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jdaianova/lifecycle-http-watches/static/css/main.e6c13ad2.css",
+    "main.js": "/jdaianova/lifecycle-http-watches/static/js/main.b6e55258.js",
+    "static/js/787.83767e0d.chunk.js": "/jdaianova/lifecycle-http-watches/static/js/787.83767e0d.chunk.js",
+    "index.html": "/jdaianova/lifecycle-http-watches/index.html",
+    "main.e6c13ad2.css.map": "/jdaianova/lifecycle-http-watches/static/css/main.e6c13ad2.css.map",
+    "main.b6e55258.js.map": "/jdaianova/lifecycle-http-watches/static/js/main.b6e55258.js.map",
+    "787.83767e0d.chunk.js.map": "/jdaianova/lifecycle-http-watches/static/js/787.83767e0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b6e55258.js"
+  ]
+}
