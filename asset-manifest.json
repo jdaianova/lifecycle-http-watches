@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jdaianova/lifecycle-http-watches/static/css/main.e6c13ad2.css",
-    "main.js": "/jdaianova/lifecycle-http-watches/static/js/main.b6e55258.js",
+    "main.css": "/jdaianova/lifecycle-http-watches/static/css/main.9d181e3a.css",
+    "main.js": "/jdaianova/lifecycle-http-watches/static/js/main.273b15dd.js",
     "static/js/787.83767e0d.chunk.js": "/jdaianova/lifecycle-http-watches/static/js/787.83767e0d.chunk.js",
     "index.html": "/jdaianova/lifecycle-http-watches/index.html",
-    "main.e6c13ad2.css.map": "/jdaianova/lifecycle-http-watches/static/css/main.e6c13ad2.css.map",
-    "main.b6e55258.js.map": "/jdaianova/lifecycle-http-watches/static/js/main.b6e55258.js.map",
+    "main.9d181e3a.css.map": "/jdaianova/lifecycle-http-watches/static/css/main.9d181e3a.css.map",
+    "main.273b15dd.js.map": "/jdaianova/lifecycle-http-watches/static/js/main.273b15dd.js.map",
     "787.83767e0d.chunk.js.map": "/jdaianova/lifecycle-http-watches/static/js/787.83767e0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.b6e55258.js"
+    "static/css/main.9d181e3a.css",
+    "static/js/main.273b15dd.js"
   ]
 }
