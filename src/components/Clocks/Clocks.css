@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.Clocks {
+    width: 660px;
+    height: 400px;
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow: scroll;
+}
+
+.Clock {
+    background-color: aliceblue;
+    width: 200px;
+    height: 150px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.Clock:nth-child(3n-1) {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Clock button {
+    font-size: 15px;
+    padding: 3px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: gray;
+    width: 70px;
+}
+
+.Clock h3 {
+    color: rgb(8, 46, 120);
+    line-height: 1.5em;
+}
+
+.Clock-numbers {
+    font-size: 30px;
+}

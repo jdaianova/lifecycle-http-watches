@@ -1,0 +1,38 @@
+.InputTownForm form {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    margin-bottom: 20px;
+}
+
+.form-town,
+.form-timezone {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-town input,
+.form-timezone select {
+    width: 300px;
+    padding: 5px;
+    font-size: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    border: none;
+}
+
+.form-town input {
+    width: 200px;
+}
+
+.InputTownForm button {
+    font-size: 25px;
+    width: 145px;
+    border: none;
+    padding: 3px;
+    background-color: gray;
+    color: white;
+}
